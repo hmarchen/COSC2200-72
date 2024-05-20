@@ -1,0 +1,57 @@
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\bin\Debug\DurakWPF.exe.config
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\bin\Debug\DurakWPF.exe
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\bin\Debug\DurakWPF.pdb
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\bin\Debug\DurakConsole.exe
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\bin\Debug\DurakConsole.pdb
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\bin\Debug\DurakConsole.exe.config
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPFTest.csproj.AssemblyReference.cache
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\App.g.cs
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPF_MarkupCompile.cache
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPF_MarkupCompile.lref
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\MainWindow.baml
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPF.g.resources
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPF.Properties.Resources.resources
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPFTest.csproj.GenerateResource.cache
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPFTest.csproj.CoreCompileInputs.cache
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPFTest.csproj.CopyComplete
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPF.exe
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPF.pdb
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\bin\Debug\DurakWPF.exe.config
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\bin\Debug\DurakWPF.exe
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\bin\Debug\DurakWPF.pdb
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\bin\Debug\DurakConsole.exe
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\bin\Debug\DurakConsole.pdb
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\bin\Debug\DurakConsole.exe.config
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPFTest.csproj.AssemblyReference.cache
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\App.g.cs
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPF_MarkupCompile.cache
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPF_MarkupCompile.lref
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\MainWindow.baml
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPF.g.resources
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPF.Properties.Resources.resources
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPFTest.csproj.GenerateResource.cache
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPFTest.csproj.CoreCompileInputs.cache
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPFTest.csproj.CopyComplete
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPF.exe
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPF.pdb
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\bin\Debug\DurakWPF.exe.config
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\bin\Debug\DurakWPF.exe
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\bin\Debug\DurakWPF.pdb
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\bin\Debug\DurakConsole.exe
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\bin\Debug\DurakConsole.pdb
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\bin\Debug\DurakConsole.exe.config
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPFTest.csproj.AssemblyReference.cache
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\App.g.cs
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPF_MarkupCompile.cache
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPF_MarkupCompile.lref
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\MainWindow.baml
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPF.g.resources
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPF.Properties.Resources.resources
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPFTest.csproj.GenerateResource.cache
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPFTest.csproj.CoreCompileInputs.cache
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPFTest.csproj.CopyComplete
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPF.exe
+C:\Users\acer\Source\Repos\rvnasara\COSC2200-72\bin\DurakWPF\DurakWPF\obj\Debug\DurakWPF.pdb

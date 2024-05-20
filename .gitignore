@@ -1,0 +1,9 @@
+*.zip
+*.DS_Store
+*.mov
+*.rar
+*.vscode
+*.vs
+bin/DURAK_CLI/bin/
+bin/DURAK_CLI/obj/
+bin/DURAK_CLI2/DURAK_CLI2/obj/

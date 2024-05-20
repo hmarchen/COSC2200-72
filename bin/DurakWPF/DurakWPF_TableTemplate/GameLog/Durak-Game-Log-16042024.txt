@@ -1,0 +1,11 @@
+-----===Durak - Game Log | Current Game: 1===-----
+
+Trump Card: Diamonds_King
+
+_______________Round 1_______________
+Attacking: Player
+Defending: AI
+
+___Round 1 | Turn 1___
+Player Hand: Clubs_Jack, Clubs_Queen, Spades_9, Clubs_King, Diamonds_9, Spades_Ace
+AI Hand: Clubs_9, Spades_6, Spades_Jack, Hearts_10, Spades_10, Clubs_10

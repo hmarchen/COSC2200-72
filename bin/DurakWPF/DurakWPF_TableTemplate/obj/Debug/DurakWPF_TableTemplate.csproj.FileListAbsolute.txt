@@ -1,0 +1,15 @@
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF_TableTemplate\bin\Debug\DurakWPF_TableTemplate.exe.config
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF_TableTemplate\bin\Debug\DurakWPF_TableTemplate.exe
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF_TableTemplate\bin\Debug\DurakWPF_TableTemplate.pdb
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF_TableTemplate\obj\Debug\DurakWPF_TableTemplate.csproj.AssemblyReference.cache
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF_TableTemplate\obj\Debug\MainWindow.g.cs
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF_TableTemplate\obj\Debug\App.g.cs
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF_TableTemplate\obj\Debug\DurakWPF_TableTemplate_MarkupCompile.cache
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF_TableTemplate\obj\Debug\DurakWPF_TableTemplate_MarkupCompile.lref
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF_TableTemplate\obj\Debug\MainWindow.baml
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF_TableTemplate\obj\Debug\DurakWPF_TableTemplate.g.resources
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF_TableTemplate\obj\Debug\DurakWPF_TableTemplate.Properties.Resources.resources
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF_TableTemplate\obj\Debug\DurakWPF_TableTemplate.csproj.GenerateResource.cache
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF_TableTemplate\obj\Debug\DurakWPF_TableTemplate.csproj.CoreCompileInputs.cache
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF_TableTemplate\obj\Debug\DurakWPF_TableTemplate.exe
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakWPF_TableTemplate\obj\Debug\DurakWPF_TableTemplate.pdb

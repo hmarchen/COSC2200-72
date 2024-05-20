@@ -1,0 +1,25 @@
+﻿<Window x:Class="DurakWPF_Game.GameRules"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DurakWPF_Game"
+        mc:Ignorable="d"
+        Title="GameRules" Height="250" Width="600" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Image Stretch="Fill" Opacity="0.5" Source="/Assets/Card Asset/Backgrounds/background_2.png" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <TextBlock HorizontalAlignment="Left" Height="167" Margin="21,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="547" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <TabControl>
+            <TabItem Header="Game Play">
+                <Grid Background="#FFE5E5E5">
+                    <Frame Name ="GameRulesFrame1" Content="This game uses a 36 standard deck cards. The game begins by the application randomly choosing the trump card &#xA;and dealing 6 cards to player and opponent.&#xA; &#xA;Attacking and Defending: Players take turns attacking and defending. &#xA;The attacker plays a card face-up, and opponent must defend against it by playing &#xA;a higher-ranking card of the same suit or any card of the trump suit. &#xD;&#xA;&#xD;&#xA;Winning: The first player to finish their cards wins!" Grid.ColumnSpan="2"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Controls">
+                <Grid Background="#FFE5E5E5">
+                    <Frame Content="Reset Game: Starts the game from the beginning.&#xD;&#xA;&#xD;&#xA;Deal Card: Deal one card from the deck&#xD;&#xA;&#xD;&#xA;Skip turn: Skip player's turn and end round. If player is attacking. the player will now defend, and vice versa.  &#xD;&#xA;"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

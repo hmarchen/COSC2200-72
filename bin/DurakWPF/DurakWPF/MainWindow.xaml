@@ -1,0 +1,46 @@
+﻿<!--
+    Name: Sheizah Jimenez
+    Date: 3/26/2024
+    Desc: Basic testing of XAML functions. This project showcases basic form and click events.
+    
+    Tutorial From: https://learn.microsoft.com/en-us/dotnet/desktop/wpf/get-started/create-app-visual-studio?view=netdesktop-8.0
+-->
+    
+<Window x:Class="DurakWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DurakWPF"
+        mc:Ignorable="d"
+        Title="Durak WPF Test" Height="220" Width="300" ResizeMode="CanMinimize" SizeToContent="Height" WindowStartupLocation="CenterScreen">
+        <!-- Changing the title of the project. -->
+    
+    <!-- Inner grid of project. Setting margin (padding) of page. -->
+    <Grid Margin="5" d:IsHidden="True">
+        <!-- Create 2 rows. Auto-resize. -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!-- Create 2 columns. Auto-resize. -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Coloumn 1 Items. Label and Card List -->
+        <Label Grid.Column="0">Durak WPF Test</Label>
+        <ListBox Grid.Row="1" x:Name="cardList"/>
+
+        <!-- Column 2 Items. Card Found, Input Textbox, Btns (GetCard, GetAllCards, Reset) -->
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="5,0,0,0">
+            <Label x:Name="lblCardFound" HorizontalAlignment="Center" Margin="0,5,0,0" Content=""></Label>
+            <TextBox x:Name="txtCard" Margin="0,20,0,0" />
+            <Button x:Name="btnGetCard" Margin="0,5,0,0" Click="ButtonGetCard_Click">Get Card</Button>
+            <Button x:Name="btnGetAllCards" Margin="0,5,0,0" Click="ButtonGetAllCards_Click">Get All Cards</Button>
+            <Button x:Name="btnReset" Margin="0,25,0,0" Click="ButtonReset_Click">Reset</Button>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,24 @@
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakConsole\bin\Debug\DurakConsole.exe.config
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakConsole\bin\Debug\DurakConsole.exe
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakConsole\bin\Debug\DurakConsole.pdb
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakConsole\obj\Debug\DurakConsole.csproj.AssemblyReference.cache
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakConsole\obj\Debug\DurakConsole.csproj.CoreCompileInputs.cache
+<<<<<<< HEAD
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakConsole\obj\Debug\DurakConsole.csproj.AssemblyReference.cache
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakConsole\obj\Debug\DurakConsole.csproj.CoreCompileInputs.cache
+=======
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakConsole\obj\Debug\DurakConsole.exe
+C:\Users\14165\Documents\!MyStuff\!CollegeFiles\Semester 4\OOP3\#Saved Work\GroupDurakGame\COSC2200-72\bin\DurakWPF\DurakConsole\obj\Debug\DurakConsole.pdb
+>>>>>>> d6cf8139633cb426fa707bb0b62603281a0c8066
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakConsole\bin\Debug\DurakConsole.exe.config
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakConsole\bin\Debug\DurakConsole.exe
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakConsole\bin\Debug\DurakConsole.pdb
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakConsole\obj\Debug\DurakConsole.exe
+C:\Users\zkape\OneDrive\Desktop\durakOOP\COSC2200-72\COSC2200-72\bin\DurakWPF\DurakConsole\obj\Debug\DurakConsole.pdb
+Y:\O-O-P COSC-2200\Group_Project\COSC2200-72\bin\DurakWPF\DurakConsole\bin\Debug\DurakConsole.exe.config
+Y:\O-O-P COSC-2200\Group_Project\COSC2200-72\bin\DurakWPF\DurakConsole\bin\Debug\DurakConsole.exe
+Y:\O-O-P COSC-2200\Group_Project\COSC2200-72\bin\DurakWPF\DurakConsole\bin\Debug\DurakConsole.pdb
+Y:\O-O-P COSC-2200\Group_Project\COSC2200-72\bin\DurakWPF\DurakConsole\obj\Debug\DurakConsole.csproj.AssemblyReference.cache
+Y:\O-O-P COSC-2200\Group_Project\COSC2200-72\bin\DurakWPF\DurakConsole\obj\Debug\DurakConsole.csproj.CoreCompileInputs.cache
+Y:\O-O-P COSC-2200\Group_Project\COSC2200-72\bin\DurakWPF\DurakConsole\obj\Debug\DurakConsole.exe
+Y:\O-O-P COSC-2200\Group_Project\COSC2200-72\bin\DurakWPF\DurakConsole\obj\Debug\DurakConsole.pdb

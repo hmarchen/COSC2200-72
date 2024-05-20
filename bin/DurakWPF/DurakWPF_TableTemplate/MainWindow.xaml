@@ -1,0 +1,118 @@
+﻿<Window x:Class="DurakWPF_Game.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DurakWPF_Game"
+        mc:Ignorable="d"
+        Title="Durak Game - Group 2" Height="750" Width="1250" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Closing="Window_Closed">
+
+    <!-- GAME BACKGROUND -->
+    <Window.Background>
+        <RadialGradientBrush x:Name="GameBackground">
+            <GradientStop x:Name="GradientBack" x:FieldModifier="public" Color="#FF4F8AB8" Offset="0.317"/>
+            <GradientStop x:Name="GradientMid" x:FieldModifier="public" Color="#FF18639E" Offset="1"/>
+            <GradientStop x:Name="GradientFront" x:FieldModifier="public"        Color="#FF2C76B1" Offset="0.702"/>
+        </RadialGradientBrush>
+    </Window.Background>
+
+    <!-- MAIN -->
+    <Grid x:Name="Main">
+
+        <!-- TOOL BAR: Settings and View menu -->
+        <Grid x:Name="ToolBarGrid">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="19*"/>
+                <RowDefinition Height="343*"/>
+            </Grid.RowDefinitions>
+            <ToolBarTray Background="White" Height="25" VerticalAlignment="Top">
+                <ToolBar Band="1" BandIndex="1">
+                    <Menu>
+                        <MenuItem x:Name="HelpMenu" Header="Help">
+                            <MenuItem x:Name="GameInfo" Header="Info" Click="GameInfo_Click"/>
+                            <MenuItem x:Name="GameRules" Header="Game Rules" Click="GameRules_Click"/>
+                        </MenuItem>
+                        <!-- SETTINGS MENU TOOLBAR -->
+                        <MenuItem x:Name="SettingsMenu" Header="Settings">
+                            <MenuItem x:Name="ThemeMenuOption" Header="Change Theme">
+                                <MenuItem x:Name="ThemeBlue" Header="Blue Theme" Click="ThemeBlue_Click"/>
+                                <MenuItem x:Name="ThemeRed" Header="Red Theme" Click="ThemeRed_Click"/>
+                                <MenuItem x:Name="ThemeGreen" Header="Green Theme" Click="ThemeGreen_Click"/>
+                            </MenuItem>
+                            <MenuItem x:Name="StyleMenuOption" Header="Change Card Styles">
+                                <MenuItem x:Name="StyleWhite" Header="White Style" Click="StyleWhite_Click"/>
+                                <MenuItem x:Name="StyleBlack" Header="Black Style" Click="StyleBlack_Click"/>
+                            </MenuItem>
+                        </MenuItem>
+
+                        <!-- VIEW MENU TOOLBAR -->
+                        <MenuItem x:Name="ViewMenu" Header="View">
+                            <MenuItem x:Name="LogMenuOption" Header="View Logs" Click="LogMenuOption_Click"/>
+                        </MenuItem>
+                    </Menu>
+                </ToolBar>
+            </ToolBarTray>
+        </Grid>
+
+        <!-- MAIN GAME GRID -->
+        <Grid x:Name="MainGameGrid" Margin="0,28,0,0">
+
+            <!-- GAME AREA: Where the game will happen/where the player plays -->
+
+            <!-- GAME AREA: Where the game will happen/where the player plays -->
+            <Grid x:Name="GameArea" Margin="10">
+                <!-- Game Area Grids-->
+                <Grid x:Name="AIHand" HorizontalAlignment="Center" Height="150" VerticalAlignment="Top" Width="745" Background="#26FFFFFF" Panel.ZIndex="2"/>
+                <Grid x:Name="PlayerHand" HorizontalAlignment="Center" Height="150" VerticalAlignment="Bottom" Width="745" Background="#26FFFFFF" Panel.ZIndex="2"/>
+                <Grid x:Name="GameTable" HorizontalAlignment="Center" Height="280" VerticalAlignment="Center" Width="500" Panel.ZIndex="2" Background="#19FFFFFF">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                </Grid>
+
+                <!-- Game Interface -->
+                <Image x:Name="imgTable" HorizontalAlignment="Center" Height="378" VerticalAlignment="Center" Width="990" Source="/Assets/Card Asset/Tables/table_blue.png" Stretch="Fill"/>
+
+                <TextBlock x:Name="lblAttack" FontSize = "20" Height="40" Width="250" Foreground="White" Margin="0,0,550,300" TextAlignment="Center" Text="ATTACKING: PLAYER"/>
+                <TextBlock x:Name="lblDefend" FontSize = "20" Height="40" Width="250" Foreground="White" Margin="550,0,0,300" TextAlignment="Center" Text="DEFENDING: AI"/>
+                <TextBlock x:Name="lblRound" FontSize = "25" Height="40" Width="250" Foreground="White" Margin="0,0,0,305" TextAlignment="Center" FontWeight="Bold" Text="ROUND #"/>
+                <TextBlock x:Name="lblTurn" FontSize = "20" Height="40" Width="500" Foreground="White" Margin="0,310,0,0" TextAlignment="Center" FontWeight="Bold" Text="YOUR TURN"/>
+
+                <TextBlock x:Name="lblTrump" FontSize = "20" Height="40" Width="200" Foreground="White" Margin="0,0,1015,420" TextAlignment="Center" Text="TRUMP CARD"/>
+                <Image x:Name="imgTrumpCard" Height="200" Width="150" Margin="0,0,1015,205" Source="/Assets/Card Asset/Backgrounds/u_background.png"/>
+                <TextBlock x:Name="lblDeck" FontSize = "20" Height="40" Width="200" Foreground="White" Margin="0,80,1015,0" TextAlignment="Center" Text="CURRENT DECK SIZE"/>
+                <Image x:Name="imgDeckPile" Height="200" Width="150" Margin="0,295,1015,0" Source="/Assets/Card Asset/Backgrounds/u_background.png"/>
+                <TextBlock x:Name="lblDeckSize" Margin="36,579,1051,46" Text="0" TextAlignment="Center" FontSize="30" Foreground="White" FontWeight="Bold" RenderTransformOrigin="0.518,2.191" />
+
+                <TextBlock x:Name="lblAIWinsTitle" FontSize = "30" Height="40" Width="200" Margin="1015,-200,0,0" Foreground="White" TextAlignment="Center" Text="AI WINS"/>
+                <TextBlock x:Name="lblAIWins" FontSize = "30" Height="40" Width="200" Margin="1015,-125,0,0" Foreground="White" TextAlignment="Center" Text="0"/>
+                <TextBlock x:Name="lblPlayerWinsTitle" FontSize = "30" Height="40" Width="200" Margin="1015,200,0,0" Foreground="White" TextAlignment="Center" Text="PLAYER WINS"/>
+                <TextBlock x:Name="lblPlayerWins" FontSize = "30" Height="40" Width="200" Margin="1015,275,0,0" Foreground="White" TextAlignment="Center" Text="0"/>
+
+                <Button x:Name="btnSkipTurn" Content="Skip Turn" FontSize = "15" Foreground ="White" Background = "#4CFFFFFF"  Width="100" Height ="40" Click="btnSkipTurn_Click" Margin="860,0,0,0" VerticalAlignment="Bottom" BorderBrush="White" />
+
+                <!-- Test Buttons -->
+                <Button x:Name="btnReset" Content="Reset" FontSize = "15" Foreground ="White" Background = "#4CFFFFFF"  Width="100" Height ="40" Click="btnReset_Click" Margin="1100,0,0,620" BorderBrush="White" IsEnabled="False" Visibility="Hidden" />
+                <Button x:Name="dealButton" Content="Deal Cards" FontSize = "15" Foreground ="White" Background = "#4CFFFFFF"  Width="100" Height ="40" Click="dealButton_Click" Margin="1100,0,0,520" BorderBrush="White" IsEnabled="False" Visibility="Hidden" />
+                <Button x:Name="cardToTable" Content="Card To Table" FontSize = "15" Foreground ="White" Background = "#4CFFFFFF"  Width="100" Height ="40" Click="cardToTable_Click" Margin="1100,0,0,420" BorderBrush="White" IsEnabled="False" Visibility="Hidden" />
+            </Grid>
+
+            <!-- GAME MENU: To start and exit the game -->
+            <Grid x:Name="GameMenu" Background="#66091A3F" d:IsHidden="True">
+                <StackPanel Background="#FF091A3F" HorizontalAlignment="Center" Height="320" VerticalAlignment="Center" Width="550">
+                    <Label x:Name="lblGameTitle" Margin="20, 40" HorizontalAlignment="Center" Foreground="White" FontSize="40" Content="DURAK CARD GAME"/>
+                    <Button x:Name="btnGameStart" Margin="150, 10" Height="45" FontSize="25" Foreground="White" Background="#FF53CC2F" Content="START GAME" Click="btnGameStart_Click"/>
+                    <Button x:Name="btnGameExit" Margin="150, 10" Height="45" FontSize="25" Foreground="White" Background="#FFCC2F2F" Content="EXIT" Click="btnGameExit_Click"/>
+                </StackPanel>
+            </Grid>
+
+            <!-- GAME LOGS: A window that shows the log files-->
+        </Grid>
+    </Grid>
+</Window>
