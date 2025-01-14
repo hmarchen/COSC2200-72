@@ -12,3 +12,12 @@ This is owned by authors:
 | Raisa Nasara | rvnasara |
 | Zhanibek Kapen | ZhanibekKapen |
 
+# Usage
+
+1. Navigate to ```bin/DurakWPF/DurakWPF/bin/Debug```
+
+2. Open the programm
+* To start CLI engine prototype:
+    * open ```DurakConsole.exe ```
+* To start WPF full game prototype:
+    * open ```DurakWPF.exe```
